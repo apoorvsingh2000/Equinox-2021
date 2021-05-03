@@ -233,8 +233,8 @@ class _EmailSignInFormState extends State<EmailSignInForm> {
       print("entered");
       Scaffold.of(context).showSnackBar(
         SnackBar(
-          content: const Text(
-              'Email not registered under Devfolio\nor\nInvalid Email ID'),
+          content:
+              const Text('Email not registered under Devpost\nor\nInvalid Email ID'),
         ),
       );
     }
@@ -242,7 +242,7 @@ class _EmailSignInFormState extends State<EmailSignInForm> {
       print("entered");
       Scaffold.of(context).showSnackBar(
         SnackBar(
-          content: const Text('Email not registered under Devfolio'),
+          content: const Text('Email not registered under Devpost'),
         ),
       );
     }

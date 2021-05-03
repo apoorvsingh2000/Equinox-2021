@@ -362,7 +362,7 @@ class _FaqState extends State<Faq> {
                           padding: const EdgeInsets.all(8.0),
                           child: ListTile(
                               title: Text(
-                                  "Don’t worry you stray comet, we won’t let you be lost. We’ve got your back! Send in your query over to equinox.robovitics@gmail.com or contact +91 98980 56388 and we will be more than happy to help!",
+                                  "Don’t worry you stray comet, we won’t let you be lost. We’ve got your back! Send in your query over to equinox.robovitics@gmail.com or contact +91 70007 95422 and we will be more than happy to help!",
                                   style: faqTileSubheadingTextStyle(
                                       context, isDarkMode))),
                         ),
