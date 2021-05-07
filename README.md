@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://user-images.githubusercontent.com/58786316/117425250-40829700-af40-11eb-9e98-0713adab6f98.jpeg" height="128" /></p>
+<p align="center"><img align="center" src="https://github.com/Manas1820/Equinox-2021/blob/main/android/app/src/main/res/drawable/logo.jpg" height="128" /></p>
 <h1 align="center">Welcome To Equinox 👋</h1>
 <p align="center">
   <img alt="Documentation" src="https://img.shields.io/badge/-Flutter-blue?&logo=flutter" />
