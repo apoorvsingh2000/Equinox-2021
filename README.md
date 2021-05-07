@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="![WhatsApp Image 2021-04-27 at 6 23 48 PM](https://user-images.githubusercontent.com/58786316/117425250-40829700-af40-11eb-9e98-0713adab6f98.jpeg)" height="128" /></p>
+<p align="center"><img align="center" src="https://user-images.githubusercontent.com/58786316/117425250-40829700-af40-11eb-9e98-0713adab6f98.jpeg" height="128" /></p>
 <h1 align="center">Welcome To Equinox 👋</h1>
 <p align="center">
   <img alt="Documentation" src="https://img.shields.io/badge/-Flutter-blue?&logo=flutter" />
@@ -43,6 +43,8 @@ flutter test
 
 ## Screenshots
 ![WhatsApp Image 2021-04-27 at 6 31 45 PM](https://user-images.githubusercontent.com/58786316/117425082-16c97000-af40-11eb-9bf3-60c998c606e2.jpeg)
+
+
 ![WhatsApp Image 2021-04-27 at 6 31 56 PM](https://user-images.githubusercontent.com/58786316/117425097-1a5cf700-af40-11eb-9276-58f272826ade.jpeg)
 
 
